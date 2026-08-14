@@ -3,14 +3,12 @@ Hill Valley Prediction
 1. Introduction
    
 The Hill Valley Prediction project is a Machine Learning classification project that predicts whether a given sequence of numerical values represents a Hill or a Valley.
-
 The project uses the Hill Valley Dataset and applies Logistic Regression to classify the input data into two classes.
-
 The implementation is developed in Python using Pandas, Matplotlib, and Scikit-learn.
-
 The main objective of this project is to build a machine learning classification model that can distinguish between: Hill and Valley based on numerical features representing the shape of the data.
 
-2. The project follows these steps:
+
+The project follows these steps:
 
 1. Import the required Python libraries.
 2. Load the Hill Valley dataset.
